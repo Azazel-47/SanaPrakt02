@@ -12,6 +12,6 @@
 
 Репозиторій на:
 
-[x] GitHub
-[ ] GitLub
-[ ] Bitbucket
+- [x] GitHub
+- [ ] GitLub
+- [ ] Bitbucket
