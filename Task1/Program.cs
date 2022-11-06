@@ -1,1 +1,1 @@
-﻿Console.WriteLine("Hello, World!");
+﻿Console.WriteLine("Курси Sana Commerce Software Development Bootcamp");
