@@ -1,0 +1,15 @@
+D:\Sana\Practice\SanaCSharp02\SanaCSharp02\QuadraticEquation\bin\Debug\net7.0\QuadraticEquation.exe
+D:\Sana\Practice\SanaCSharp02\SanaCSharp02\QuadraticEquation\bin\Debug\net7.0\QuadraticEquation.deps.json
+D:\Sana\Practice\SanaCSharp02\SanaCSharp02\QuadraticEquation\bin\Debug\net7.0\QuadraticEquation.runtimeconfig.json
+D:\Sana\Practice\SanaCSharp02\SanaCSharp02\QuadraticEquation\bin\Debug\net7.0\QuadraticEquation.dll
+D:\Sana\Practice\SanaCSharp02\SanaCSharp02\QuadraticEquation\bin\Debug\net7.0\QuadraticEquation.pdb
+D:\Sana\Practice\SanaCSharp02\SanaCSharp02\QuadraticEquation\obj\Debug\net7.0\QuadraticEquation.csproj.AssemblyReference.cache
+D:\Sana\Practice\SanaCSharp02\SanaCSharp02\QuadraticEquation\obj\Debug\net7.0\QuadraticEquation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sana\Practice\SanaCSharp02\SanaCSharp02\QuadraticEquation\obj\Debug\net7.0\QuadraticEquation.AssemblyInfoInputs.cache
+D:\Sana\Practice\SanaCSharp02\SanaCSharp02\QuadraticEquation\obj\Debug\net7.0\QuadraticEquation.AssemblyInfo.cs
+D:\Sana\Practice\SanaCSharp02\SanaCSharp02\QuadraticEquation\obj\Debug\net7.0\QuadraticEquation.csproj.CoreCompileInputs.cache
+D:\Sana\Practice\SanaCSharp02\SanaCSharp02\QuadraticEquation\obj\Debug\net7.0\QuadraticEquation.dll
+D:\Sana\Practice\SanaCSharp02\SanaCSharp02\QuadraticEquation\obj\Debug\net7.0\refint\QuadraticEquation.dll
+D:\Sana\Practice\SanaCSharp02\SanaCSharp02\QuadraticEquation\obj\Debug\net7.0\QuadraticEquation.pdb
+D:\Sana\Practice\SanaCSharp02\SanaCSharp02\QuadraticEquation\obj\Debug\net7.0\QuadraticEquation.genruntimeconfig.cache
+D:\Sana\Practice\SanaCSharp02\SanaCSharp02\QuadraticEquation\obj\Debug\net7.0\ref\QuadraticEquation.dll
